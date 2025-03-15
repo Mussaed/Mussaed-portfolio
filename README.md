@@ -64,7 +64,7 @@ I am an **AI Engineer & Data Scientist** with a strong focus on **machine learni
 
 ## **📫 Let's Connect!**  
 
-💼 [LinkedIn](#) | 📝 [Medium](#) | 📧 **Email:** musaedalahmadi@example.com  
-💻 [GitHub](https://github.com/yourusername)  
+💼 [LinkedIn](www.linkedin.com/in/mussaed-alahmadi-928481244) | 📧 **Email:** musaedalahmadi@gmail.com  
+💻 [GitHub](https://github.com/Mussaed)  
 
 🚀 Always open to AI collaborations & research discussions!  
