@@ -1,9 +1,9 @@
 # **Mussaed Alahmadi**  
-🚀 *AI Engineer | Data Scientist | ML Researcher | Ex-Product Manager*  
+*AI Engineer | Data Scientist | ML Researcher | Ex-Product Manager*  
 
-🔍 Passionate about **Data Science, Deep Learning, and AI-driven insights**  
-📊 Strong foundation in **Statistical Analysis, Machine Learning, and Data-Driven Decision Making**  
-🎯 Experienced in **Building and Optimizing ML/DL Models for Research and Real-World Applications**  
+Passionate about **Data Science, Deep Learning, and AI-driven insights**  
+Strong foundation in **Statistical Analysis, Machine Learning, and Data-Driven Decision Making**  
+Experienced in **Building and Optimizing ML/DL Models for Research and Real-World Applications**  
 
 ---
 
@@ -16,7 +16,7 @@ I am an **AI Engineer & Data Scientist** with a strong focus on **machine learni
 - **Statistical Analysis & Predictive Modeling**: Bayesian inference, hypothesis testing, and forecasting.  
 - **Anomaly Detection**: Using autoencoders, LSTMs, and unsupervised learning techniques.  
 
-💼 **Ex-Product Manager**: Managed **web and mobile application projects**, handled requirement gathering, collaborated with cross-functional teams, and led product lifecycle strategies.  
+**Ex-Product Manager**: Managed **web and mobile application projects**, handled requirement gathering, collaborated with cross-functional teams, and led product lifecycle strategies.  
 
 ---
 
@@ -29,7 +29,7 @@ I am an **AI Engineer & Data Scientist** with a strong focus on **machine learni
 - **Time Series Forecasting**: ARIMA, LSTMs, Exponential Smoothing.  
 - **Feature Engineering & Data Processing**: Handling missing data, outlier detection, data transformation.  
 
-### **🤖 Deep Learning & AI**  
+### **Deep Learning & AI**  
 - **Computer Vision**: YOLOv8, OpenCV, Image/Video Processing.  
 - **NLP**: BERT, Transformer Models, Tokenization, Named Entity Recognition.  
 - **Anomaly Detection**: Autoencoders, Isolation Forests, LSTMs for sequence modeling.  
