@@ -39,9 +39,6 @@ I am an **AI Engineer & Data Scientist** specializing in **machine learning rese
 ## 📂 Featured Projects  
 
 
-📌 **[YOLOv8-Based License Plate Recognition](https://github.com/Mussaed/license-plate-recognition)**  
-Trained and fine-tuned **YOLOv8** for **character recognition in vehicle license plates**, improving model accuracy with **custom dataset augmentation**.  
-
 📌 **[NLP-Based Sentiment & Stance Prediction](https://github.com/Mussaed/Predicting-an-Author-s-Stance-using-Tweets)**  
 Built a **Transformer-based sentiment classifier** using BERT. Used **SVM for sentiment prediction** and **MLP for stance classification** in a Kaggle competition.  
 
@@ -55,10 +52,14 @@ Built a **multiple regression model** to predict life expectancy based on econom
 Implemented **logistic regression, ridge regression, and linear classifiers** to predict diabetes.  
 Applied **feature selection and statistical analysis**, ensuring the best performance using only linear models as per competition constraints.  
 
+ <!-- +
+📌 **[YOLOv8-Based License Plate Recognition](https://github.com/Mussaed/license-plate-recognition)**  
+Trained and fine-tuned **YOLOv8** for **character recognition in vehicle license plates**, improving model accuracy with **custom dataset augmentation**.  
++ -->
 
-📌 **[Anomaly Detection in Video Feeds](https://github.com/Mussaed/anomaly-detection)**  
+ <!-- +  📌 **[Anomaly Detection in Video Feeds](https://github.com/Mussaed/anomaly-detection)**  
 Developed an **LSTM-based anomaly detection system** for analyzing video sequences. Explored techniques for **temporal anomaly detection in time-series data**.  
-
++ -->
 ---
 
 ## 🎓 Education & Certifications  
@@ -74,7 +75,7 @@ Developed an **LSTM-based anomaly detection system** for analyzing video sequenc
 ## 📫 Let's Connect!  
 
 💼 **[LinkedIn](https://www.linkedin.com/in/mussaed-alahmadi-928481244/)**  
-📧 **Email:** [musaedalahmadi@gmail.com](mailto:musaedalahmadi@gmail.com)  
+📧 **Email:** [mussaedalahmadi@gmail.com](mailto:mussaedalahmadi@gmail.com)  
 💻 **[GitHub](https://github.com/Mussaed)**  
 
 🚀 Always open to AI collaborations & research discussions!  
