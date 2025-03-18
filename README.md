@@ -43,7 +43,7 @@ I am an **AI Engineer & Data Scientist** specializing in **machine learning rese
 Built a **Transformer-based text embedding** using AraBERT. Used **SVM for sentiment prediction** and **MLP for stance classification** in a Kaggle competition.  
 
 📌 **[Saudi Arabia House Price Prediction](https://github.com/Mussaed/saudi-arabia-house-prices-prediction)**  
-Developed a real estate price prediction model using **XGBoost**, achieving the best **MSE score**. Applied **feature engineering and PCA for dimensionality reduction**.  
+Developed a real estate price prediction model using **XGBoost**, achieving the best **MSE score**. Applied **feature engineering**.  
 
 📌 **[Life Expectancy Prediction](https://github.com/Mussaed/life-expectancy-predictions)**  
 Built a **multiple regression model** to predict life expectancy based on economic, healthcare, and environmental factors, providing **data-driven insights for public health policies**.  
@@ -52,14 +52,6 @@ Built a **multiple regression model** to predict life expectancy based on econom
 Implemented **logistic regression, ridge regression, and linear classifiers** to predict diabetes.  
 Applied **feature selection and statistical analysis**, ensuring the best performance using only linear models as per competition constraints.  
 
- <!-- +
-📌 **[YOLOv8-Based License Plate Recognition](https://github.com/Mussaed/license-plate-recognition)**  
-Trained and fine-tuned **YOLOv8** for **character recognition in vehicle license plates**, improving model accuracy with **custom dataset augmentation**.  
-+ -->
-
- <!-- +  📌 **[Anomaly Detection in Video Feeds](https://github.com/Mussaed/anomaly-detection)**  
-Developed an **LSTM-based anomaly detection system** for analyzing video sequences. Explored techniques for **temporal anomaly detection in time-series data**.  
-+ -->
 ---
 
 ## 🎓 Education & Certifications  
