@@ -40,7 +40,7 @@ I am an **AI Engineer & Data Scientist** specializing in **machine learning rese
 
 
 📌 **[NLP-Based Sentiment & Stance Prediction](https://github.com/Mussaed/Predicting-an-Author-s-Stance-using-Tweets)**  
-Built a **Transformer-based sentiment classifier** using BERT. Used **SVM for sentiment prediction** and **MLP for stance classification** in a Kaggle competition.  
+Built a **Transformer-based text embedding** using AraBERT. Used **SVM for sentiment prediction** and **MLP for stance classification** in a Kaggle competition.  
 
 📌 **[Saudi Arabia House Price Prediction](https://github.com/Mussaed/saudi-arabia-house-prices-prediction)**  
 Developed a real estate price prediction model using **XGBoost**, achieving the best **MSE score**. Applied **feature engineering and PCA for dimensionality reduction**.  
